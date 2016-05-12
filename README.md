@@ -1,2 +1,3 @@
 # sistema-generador-de-examenes
-Desarrollador por METASYSTEMS SRL
+Desarrollado por METASYSTEMS SRL
+Copyright Actived
