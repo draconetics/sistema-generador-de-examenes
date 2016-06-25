@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id_respuesta;datatype:int,name:respuesta_descrip;datatype:string,name:puntaje_respuesta;datatype:real,name:id_pregu;datatype:int" />
+	<infoitem key="UD_pregunta_actual" value="name:id_examen;datatype:int,name:id_pregunta;datatype:int,name:pregunta_descrip;datatype:string,name:tipo_pregunta;datatype:int" />
+	<infoitem key="UD_lista_respuesta" value="name:id_respuesta;datatype:int,name:respuesta_descrip;datatype:string,name:puntaje_respuesta;datatype:real,name:id_pregu;datatype:int,name:estado_respuesta;datatype:int" />
+</info>

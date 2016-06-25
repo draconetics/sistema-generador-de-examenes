@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_exa_obte" value="name:id_examen;datatype:int,name:titulo_examen;datatype:string,name:fecha_registro;datatype:date,name:hora_registro;datatype:time,name:hora_inicio;datatype:time,name:hora_fin;datatype:time,name:estado_examen;datatype:int,name:descripcion_examen;datatype:string" />
+	<infoitem key="UD_obtener_examen" value="name:id_examen;datatype:int,name:titulo_examen;datatype:string,name:fecha_registro;datatype:date,name:hora_registro;datatype:time,name:hora_inicio;datatype:time,name:hora_fin;datatype:time,name:estado_examen;datatype:int,name:descripcion_examen;datatype:string" />
+	<infoitem key="UD_lista_preguntas" value="name:pregunta_descrip;datatype:string,name:tipo_pregunta;datatype:int" />
+</info>

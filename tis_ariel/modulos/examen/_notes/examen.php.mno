@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_obtener_envio" value="name:MAX(id_examen);datatype:int" />
+	<infoitem key="UD_obtener_examen" value="name:id_examen;datatype:int,name:titulo_examen;datatype:string,name:fecha_registro;datatype:date,name:hora_registro;datatype:time,name:hora_inicio;datatype:time,name:hora_fin;datatype:time,name:estado_examen;datatype:int,name:descripcion_examen;datatype:string" />
+	<infoitem key="UD_res_pregunta" value="name:MAX(id_pregunta);datatype:int" />
+	<infoitem key="UD_pregunta_actual" value="name:id_examen;datatype:int,name:id_pregunta;datatype:int,name:pregunta_descrip;datatype:string,name:tipo_pregunta;datatype:int,name:id_pregu_sub;datatype:int" />
+	<infoitem key="UD_respuesta11" value="name:id_respuesta;datatype:int,name:respuesta_descrip;datatype:string,name:puntaje_respuesta;datatype:real,name:id_pregu;datatype:int,name:estado_respuesta;datatype:int" />
+</info>

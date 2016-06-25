@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_lista_preguntas" value="name:pregunta_descrip;datatype:string,name:tipo_pregunta;datatype:int" />
+</info>

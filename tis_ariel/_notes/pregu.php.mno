@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_obtener_pre111" value="name:id_examen;datatype:int,name:id_pregunta;datatype:int,name:pregunta_descrip;datatype:string,name:tipo_pregunta;datatype:int,name:id_pregu_sub;datatype:int" />
+</info>
